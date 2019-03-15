@@ -1,0 +1,28 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "encryptJs": false,
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": false,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "net.gamelover.poker",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "a5595bd5-443d-47c9-8a64-4025a44d3783",
+  "title": "poker",
+  "webOrientation": "auto",
+  "xxteaKey": "44d4a0f3-5550-45"
+}
